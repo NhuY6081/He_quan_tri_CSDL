@@ -54,13 +54,13 @@
 
 2.Cấu hình cho SQL Server làm việc ở cổng động (Dynamic Port)
 
-<img width="1018" height="789" alt="Ảnh chụp màn hình 2026-04-09 155839" src="https://github.com/user-attachments/assets/8519b698-5991-4e1e-9aa0-517943c0b051" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dd2d497-988a-4c64-beb9-4d4388847ebd" />
 
-<img width="834" height="762" alt="Ảnh chụp màn hình 2026-04-09 161354" src="https://github.com/user-attachments/assets/916db179-88c3-467d-993d-b5408acbd5a8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/697abb99-625a-4c7e-92dc-4c5e6e9c1555" />
 
 3.Kiểm tra service SQL Server đang running và mở đúng cổng đã chọn
 
-<img width="1167" height="309" alt="Ảnh chụp màn hình 2026-04-09 161601" src="https://github.com/user-attachments/assets/48945d52-ae14-47d2-8ca8-236b5f4d57b0" />
+<img width="1920" height="1080" alt="Ảnh chụp màn hình 2026-04-12 152705" src="https://github.com/user-attachments/assets/8868ab99-3d60-4b52-b253-51b08ebb77af" />
 
 4.Cài đặt SQL Server Management Studio
 
@@ -68,13 +68,13 @@
 
 5.Chạy phần mềm ssms để Đăng nhập vào SQL Server bằng 2 cách: Windows Authentication và SQL Server Authentication.
 
-<img width="679" height="783" alt="image" src="https://github.com/user-attachments/assets/2d959b4c-927d-4c14-8f00-282a2c40c672" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce53c4c6-c2d4-4473-9c96-cb40adfeb14e" />
 
-<img width="430" height="294" alt="image" src="https://github.com/user-attachments/assets/6cc5e04e-3da4-42ef-82fb-4050fab02226" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3100e57a-c950-42b3-838e-1fd76ce5a81d" />
 
 6.Tạo cơ sở dữ liệu mới và nơi lưu file
 
-<img width="1143" height="851" alt="Ảnh chụp màn hình 2026-04-09 162107" src="https://github.com/user-attachments/assets/e0d510c7-f4cb-44ee-8b5f-d3f87b8ace42" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eee43f84-c13f-41b5-a476-73aaff1c91d6" />
 
 7.Tạo bảng sinh viên với các trường dữ liệu theo file mẫu
 
